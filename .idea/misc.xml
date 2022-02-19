@@ -6,8 +6,9 @@
         <entry key="..\:/AndroidMVVM21/Foody/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/AndroidMVVM21/Foody/app/src/main/res/layout/fragment_favorite_recipes.xml" value="0.10182370820668693" />
         <entry key="..\:/AndroidMVVM21/Foody/app/src/main/res/layout/fragment_food_joke.xml" value="0.10182370820668693" />
-        <entry key="..\:/AndroidMVVM21/Foody/app/src/main/res/layout/fragment_recipes.xml" value="0.5025" />
-        <entry key="..\:/AndroidMVVM21/Foody/app/src/main/res/layout/recipes_row_layout.xml" value="0.67" />
+        <entry key="..\:/AndroidMVVM21/Foody/app/src/main/res/layout/fragment_recipes.xml" value="0.209375" />
+        <entry key="..\:/AndroidMVVM21/Foody/app/src/main/res/layout/placeholder_row_layout.xml" value="0.33" />
+        <entry key="..\:/AndroidMVVM21/Foody/app/src/main/res/layout/recipes_row_layout.xml" value="0.209375" />
         <entry key="..\:/AndroidMVVM21/Foody/app/src/main/res/menu/bottom_nav_menu.xml" value="0.209375" />
       </map>
     </option>
