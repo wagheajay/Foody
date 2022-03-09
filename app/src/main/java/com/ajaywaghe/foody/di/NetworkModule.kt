@@ -1,11 +1,10 @@
 package com.ajaywaghe.foody.di
 
-import com.ajaywaghe.foody.Constants.Companion.BASE_URL
-import com.ajaywaghe.foody.FoodRecipesApi
+import com.ajaywaghe.foody.util.Constants.Companion.BASE_URL
+import com.ajaywaghe.foody.data.network.FoodRecipesApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
-import dagger.hilt.android.internal.managers.ApplicationComponentManager
 import dagger.hilt.components.SingletonComponent
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit

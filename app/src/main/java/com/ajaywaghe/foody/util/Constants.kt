@@ -1,4 +1,4 @@
-package com.ajaywaghe.foody
+package com.ajaywaghe.foody.util
 
 class Constants{
 
